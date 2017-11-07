@@ -4,7 +4,7 @@ Gesture recognition via CNN neural network implemented in Keras + Theano + OpenC
 
 Key Requirements:
 Python 2.7.13
-OpenCV 2.4.8
+OpenCV 2.4.13
 Keras 2.0.2
 Theano 0.9.0
 
