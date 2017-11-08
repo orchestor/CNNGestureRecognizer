@@ -3,10 +3,13 @@ Gesture recognition via CNN neural network implemented in Keras + Theano + OpenC
 
 
 Key Requirements:
-Python 2.7.13
+Python 2.7.6
 OpenCV 2.4.13
 Keras 2.0.2
 Theano 0.9.0
+scikit-learn 1.19.1
+h5py 2.7.1
+
 
 Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
